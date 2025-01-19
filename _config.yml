@@ -16,8 +16,9 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html", title: "Home change"}
+  - {file: "/sean.pdf", title: "CV"} # name of my cv
   - {file: "README.md", title: "About me"}
+  - 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:sozinsky@uw.edu"}
